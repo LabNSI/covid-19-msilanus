@@ -1,3 +1,4 @@
+[![Run on Repl.it](https://repl.it/badge/github/LabNSI/covid-19-msilanus)](https://repl.it/github/LabNSI/covid-19-msilanus)
 # Covid-19 : Accès aux données
 
 A l’heure des "fake news", ces fausses informations qui se répandent rapidement, il est important de vérifier en permanence l’exactitude des dépêches que nous recevons depuis divers supports, ce qui est loin d’être simple !
